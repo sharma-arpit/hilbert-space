@@ -1,0 +1,9 @@
+pennylane
+torch
+torchvision
+torchaudio
+autograd
+pennylane-lightning
+pennylane-qiskit
+qiskit
+'qiskit[visualization]'
